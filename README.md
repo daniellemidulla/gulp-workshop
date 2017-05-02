@@ -257,9 +257,9 @@ and automatically updates if you change any `.coffee`, `.scss`, or `.pug` file.
 
 ## Finished!
 At this point you should have ...
-- [ ] installed gulp (globally and in the repo)
-- [ ] added external plugins
-- [ ] compiled and minified all of the files in `src/`
-- [ ] hot reloading for local testing
-- [ ] error checking
-- [ ] an understanding of how cool gulp is!
+- [x] installed gulp (globally and in the repo)
+- [x] added external plugins
+- [x] compiled and minified all of the files in `src/`
+- [x] hot reloading for local testing
+- [x] error checking
+- [x] an understanding of how cool gulp is!
